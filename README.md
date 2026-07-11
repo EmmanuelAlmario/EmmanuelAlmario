@@ -76,15 +76,16 @@ I'm a **4th semester Software Development student** passionate about technology 
 
 ---
 
-#  Contributions
+## Contributions
 
-> *Coming soon...*
-
-*(This section will be enabled after configuring GitHub Actions.)*
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/EmmanuelAlmario/EmmanuelAlmario/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake animation"
+  />
+</p>
 
 ---
-
-
 
 #  Contact
 
